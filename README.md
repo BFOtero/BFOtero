@@ -18,6 +18,9 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/> 
 
 ## Mi stack tecnológico y herramientas
 
@@ -49,7 +52,7 @@
   </a>
 </p>
 
-- herramientas
+- Herramientas
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman" />
@@ -59,8 +62,9 @@
 ## Serpiente de contribución
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center" />
-
+<p align="center">
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+</p>
 
 
 
