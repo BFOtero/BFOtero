@@ -14,9 +14,9 @@
 
 <br>
 <h3 align="left">Conéctate conmigo:</h3>
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/bastian-andres-farias-otero-706b06213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-</a>
+<a href="https://stackoverflow.com/users/30127823/bastian-farias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
 </p>
 <br>
 
