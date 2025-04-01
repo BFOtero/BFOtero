@@ -11,16 +11,14 @@
 - 💬 Hablemos sobre **Angular, NestJS, React, Spring Boot y Docker**
 - 📫 Contáctame en **ba.fotero@gmail.com**
 
+
+<br>
 <h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bastian-andres-farias-otero-706b06213/" alt="bastian-dev" height="30" width="40" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/bastian-andres-farias-otero-706b06213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+</a>
 </p>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/> 
+<br>
 
 ## Mi stack tecnológico y herramientas
 
