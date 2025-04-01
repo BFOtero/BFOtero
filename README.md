@@ -13,15 +13,11 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/bastian-dev](https://www.linkedin.com/in/bastian-andres-farias-otero-706b06213/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bastian-dev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bastian-andres-farias-otero-706b06213/" alt="bastian-dev" height="30" width="40" /></a>
 </p>
-
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
 
 ## Mi stack tecnológico y herramientas
 
@@ -63,7 +59,7 @@
 ## Serpiente de contribución
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center" />
 
 
 
