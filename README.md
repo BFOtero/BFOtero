@@ -2,9 +2,6 @@
 <h3 align="center">Desarrollador Full Stack apasionado por la tecnología</h3>
 <p align="center">Me encanta estar al día con las últimas tecnologías y tendencias del mercado. Tengo experiencia en el desarrollo de aplicaciones web utilizando diferentes tecnologías y frameworks, siempre buscando soluciones eficientes y escalables.</p>
 
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=bastian-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bastian-dev" /> 
-</p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -16,8 +13,15 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bastian-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bastian-dev" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/bastian-dev](https://www.linkedin.com/in/bastian-andres-farias-otero-706b06213/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bastian-dev" height="30" width="40" /></a>
 </p>
+
+
+
+
+
+
+
 
 ## Mi stack tecnológico y herramientas
 
@@ -56,11 +60,11 @@
   </a>
 </p>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-
 ## Serpiente de contribución
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+
 
 
 
