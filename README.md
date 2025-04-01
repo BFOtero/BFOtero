@@ -6,42 +6,61 @@
  <img src="https://komarev.com/ghpvc/?username=bastian-dev&label=Profile%20views&color=0e75b6&style=flat" alt="bastian-dev" /> 
 </p>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/angular-icon.svg" alt="Angular" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/typescript-icon.svg" alt="TypeScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/javascript-icon.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nestjs-icon.svg" alt="NestJS" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring Boot" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="50" height="50" />
-</div>
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 Actualmente trabajo en **Intelidata** desarrollando aplicaciones en **Angular y Spring Boot**
-- 🚀 Migrando proyectos a **NestJS**
-- 📚 Aprendiendo y explorando **nuevas tecnologías**
-- 📌 Mis proyectos incluyen **firmas digitales, firmas mixtas, formularios dinámicos y aplicaciones con Next.js**
-- 💬 Pregúntame sobre **Angular, NestJS, React, Spring Boot y Docker**
-- 📫 Puedes contactarme en **bastian.dev@gmail.com**
+- 🔭 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
+- 📚 Siempre en busca de **nuevas tecnologías y mejores prácticas**
+- 📌 Experiencia en **aplicaciones empresariales, Saas y aplicaciones a medida**
+- 💬 Hablemos sobre **Angular, NestJS, React, Spring Boot y Docker**
+- 📫 Contáctame en **ba.fotero@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bastian-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bastian-dev" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
- 
-![Bastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=bastian-dev&theme=midnight-purple&show_icons=true&hide=contribs,issues)
+## Mi stack tecnológico y herramientas
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bastian-dev&theme=midnight-purple)](https://git.io/streak-stats)
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,nodejs,spring,express,nestjs" />
+  </a>
+</p>
 
-</div>
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,angular" />
+  </a>
+</p>
 
-<br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<p align="right">Creado con ❤️ por <a href="https://github.com/bastian-dev">Bastian</a></p>
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,gcp" />
+  </a>
+</p>
+
+- herramientas
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman" />
+  </a>
+</p>
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+
+## Serpiente de contribución
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+
+
+
